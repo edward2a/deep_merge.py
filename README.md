@@ -1,1 +1,3 @@
-# deep_merge.py
+# Deep Dict Merge
+
+dmerge - Recursively merge two dictionaries
